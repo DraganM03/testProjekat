@@ -1,0 +1,9 @@
+.container::-webkit-scrollbar{
+    display: none;
+}
+
+
+.container{
+    overflow-y: scroll;
+    max-height: 83vh;
+}
